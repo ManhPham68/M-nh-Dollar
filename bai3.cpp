@@ -2,6 +2,7 @@
 int main()
 {
 	int a,b,c;
+	int x=10;
 	printf("Nhap so thu nhat :");
 	scanf("%d",&a);
 	printf("\nNhap so thu hai :");
